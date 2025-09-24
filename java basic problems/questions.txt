@@ -1,0 +1,25 @@
+1.Addition of two numbers
+2.Check even or odd
+3.Find the largest of two numbers
+4.Find the largest among three numbers
+5.Swap two numbers (using third variable)
+6.Swap two numbers (without using third variable)
+7.Factorial of a number
+8.Fibonacci series
+9.Reverse a number
+10.Check prime number
+11.Palindrome number
+12.Sum of digits
+13.Armstrong number
+14.Print multiplication table
+15.Check leap year
+16.Count number of digits
+17.Check positive, negative, zero
+18.Print alphabets (A–Z) 
+19.Sum of first N natural numbers
+20.Print numbers in reverse order
+21.Find GCD (Greatest Common Divisor) of two numbers
+22.Find LCM (Least Common Multiple) of two numbers
+23.Print all prime numbers between 1 to N
+24.Print all factors of a number
+25.Check if a number is a Perfect Number (sum of factors = number)
